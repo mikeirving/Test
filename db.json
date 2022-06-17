@@ -1,4 +1,5 @@
-[
+{
+    "riders":[
     {
        "name":"Mike Irving",
        "image":"https://profile.pmc.org/Images/pfpPhotos/pmc-badge_thumb.png",
@@ -21,3 +22,4 @@
        "favorite":false
     }
  ]
+}
