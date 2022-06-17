@@ -1,0 +1,23 @@
+[
+    {
+       "name":"Mike Irving",
+       "image":"https://profile.pmc.org/Images/pfpPhotos/pmc-badge_thumb.png",
+       "egiftID":"MI0005",
+       "lastlocation":"unknown",
+       "favorite":false
+    },
+    {
+       "name":"John Smith",
+       "image":"https://profile.pmc.org/Images/pfpPhotos/pmc-badge_thumb.png",
+       "egiftID":"JS0001",
+       "lastlocation":"Lakeville",
+       "favorite":false
+    },
+    {
+       "name":"Harry Walden",
+       "image":"https://profile.pmc.org/Images/pfpPhotos/pmc-badge_thumb.png",
+       "egiftID":"HW0008",
+       "lastlocation":"Crazy Train",
+       "favorite":false
+    }
+ ]
